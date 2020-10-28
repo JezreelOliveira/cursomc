@@ -1,4 +1,4 @@
-package com.juizerapp.cursomc.domain;
+	package com.juizerapp.cursomc.domain;
 
 import java.io.Serializable;
 import java.util.ArrayList;
